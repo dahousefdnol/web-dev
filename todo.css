@@ -1,0 +1,30 @@
+body {
+   margin: 0 auto;
+}
+
+#myHeading, #myHeading2, .myForm {
+   text-align: center;
+}
+
+#label {
+   font-size: 140%;
+}
+
+.myLine {
+   padding: 0.5rem;
+   width: 70%;
+   margin: auto;
+}
+
+.typebox {
+   padding: 5px;
+   width: 400px;
+   border-radius: 5px;
+   color: white;
+   background-color: rgb(2, 23, 109);
+}
+
+.listStyling {
+   cursor: pointer;
+   font-size: 20px;
+}
